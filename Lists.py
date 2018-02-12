@@ -1,26 +1,27 @@
 if __name__ == '__main__':
-N = int(input()) 
-list1=[]
- 
-for i in range(N): 
-    cmd=input().split() 
-    command=cmd[0] 
-    
-    if len(cmd)>1: 
-        index=int(cmd[1]) 
-    if len(cmd)>2: 
-        number=int(cmd[2]) 
-    if command=='insert': 
-        list1.insert(index,number) 
-    if command=='append':
-        list1.append(index) 
-    elif command=='remove': 
-        list1.remove(index) 
-    if command=='print': 
-        print(list1) 
-    elif command=='pop': 
-        list1.pop() 
-    elif command=='reverse': 
-        list1.reverse() 
-    elif command=='sort': 
-        list1.sort()
+    arr = []
+    for i in range(int(input())):
+        s = input().split()
+        for i in range(1,len(s)):
+            s[i] = int(s[i])
+            
+        if s[0] == "append":
+            arr.append(s[1])
+        elif s[0] == "extend":    
+            arr.extend(s[1:])
+        elif s[0] == "insert":
+            arr.insert(s[1],s[2])
+        elif s[0] == "remove":
+            arr.remove(s[1])
+        elif s[0] == "pop":
+            arr.pop()
+        elif s[0] == "index":
+            print (arr.index(s[1]))
+        elif s[0] == "count":
+            print (arr.count(s[1]))
+        elif s[0] == "sort":
+            arr.sort()
+        elif s[0] == "reverse":
+            arr.reverse()
+        elif s[0] == "print":
+            print (arr)
