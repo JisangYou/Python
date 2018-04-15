@@ -10,12 +10,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="grammer2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grammer2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="19">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -45,16 +45,34 @@
         <entry file="file://$PROJECT_DIR$/venv/dict.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
-              <caret line="4" column="34" lean-forward="true" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+              <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="seq.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="seq.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/seq.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+            <state relative-caret-position="410">
+              <caret line="35" selection-start-line="35" selection-end-line="38" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reference.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reference.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="str_methods.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/str_methods.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -62,7 +80,7 @@
       <file leaf-file-name="builtins.py" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/-607905904/builtins.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
+            <state relative-caret-position="53561">
               <caret line="2819" column="8" selection-start-line="2819" selection-start-column="8" selection-end-line="2819" selection-end-column="8" />
             </state>
           </provider>
@@ -95,6 +113,8 @@
         <option value="$PROJECT_DIR$/tuple.py" />
         <option value="$PROJECT_DIR$/venv/dict.py" />
         <option value="$PROJECT_DIR$/seq.py" />
+        <option value="$PROJECT_DIR$/reference.py" />
+        <option value="$PROJECT_DIR$/str_methods.py" />
       </list>
     </option>
   </component>
@@ -135,25 +155,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.dict">
-    <configuration name="dataStructure" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="basic2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\JisangYou\PycharmProjects\basic2\list.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.str_methods">
     <configuration name="dict" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="basic2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -172,7 +174,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="grammer2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="reference" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="basic2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -184,7 +186,43 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/grammer2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reference.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="seq" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="basic2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/seq.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="str_methods" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="basic2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/str_methods.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,17 +247,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.grammer2" />
-      <item itemvalue="Python.dataStructure" />
       <item itemvalue="Python.tuple" />
       <item itemvalue="Python.dict" />
+      <item itemvalue="Python.seq" />
+      <item itemvalue="Python.reference" />
+      <item itemvalue="Python.str_methods" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.str_methods" />
+        <item itemvalue="Python.reference" />
+        <item itemvalue="Python.seq" />
         <item itemvalue="Python.dict" />
         <item itemvalue="Python.tuple" />
-        <item itemvalue="Python.dataStructure" />
-        <item itemvalue="Python.grammer2" />
       </list>
     </recent_temporary>
   </component>
@@ -239,31 +279,83 @@
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1328125" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1328125" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="R Packages" />
-      <window_info anchor="right" id="R Graphics" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="R Packages" order="3" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32943678" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3995749" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/grammer2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tuple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/dict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="34" lean-forward="true" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/-607905904/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53561">
+          <caret line="2819" column="8" selection-start-line="2819" selection-start-column="8" selection-end-line="2819" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mymodule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seq.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mymodule.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -273,8 +365,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/grammer2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="19">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
@@ -297,7 +389,7 @@
     </entry>
     <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/-607905904/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
+        <state relative-caret-position="53561">
           <caret line="2819" column="8" selection-start-line="2819" selection-start-column="8" selection-end-line="2819" selection-end-column="8" />
         </state>
       </provider>
@@ -305,14 +397,28 @@
     <entry file="file://$PROJECT_DIR$/venv/dict.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
-          <caret line="4" column="34" lean-forward="true" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/seq.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+        <state relative-caret-position="410">
+          <caret line="35" selection-start-line="35" selection-end-line="38" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reference.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/str_methods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
