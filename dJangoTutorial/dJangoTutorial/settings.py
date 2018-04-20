@@ -35,8 +35,10 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    "jayBlog"
+    "jayBlog",
+    "rest_framework"
 ]
+
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
@@ -74,13 +76,7 @@ WSGI_APPLICATION = 'dJangoTutorial.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.mysql',
-        # 'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
-        'NAME': 'jayBlog',
-        'USER': 'root',
-        'PASSWORD': 'aprkwhs12-_-',
-        'HOST': 'localhost',
-        'PORT': ""
+     
     }
 }
 
