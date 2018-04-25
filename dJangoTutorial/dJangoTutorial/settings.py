@@ -75,15 +75,7 @@ WSGI_APPLICATION = 'dJangoTutorial.wsgi.application'
 # https://docs.djangoproject.com/en/2.0/ref/settings/#databases
 
 DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.mysql',
-        # 'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
-        'NAME': 'jayBlog',
-        'USER': 'root',
-        'PASSWORD': 'aprkwhs12-_-',
-        'HOST': 'localhost',
-        'PORT': ""
-    }
+ 
 }
 
 # Password validation
