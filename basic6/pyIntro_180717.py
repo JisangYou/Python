@@ -33,3 +33,34 @@ for x in range(0, 3):
     print(x)
 print(list(range(0, 3)))
 print(list(range(0, 11, 2)))
+
+# comprehension 파이써닉한 방법
+
+number_list = [number for number in range(1, 6)]
+number_list2 = [number - 1 for number in range(1, 6)]
+print("number_list", number_list)
+print("number_list2", number_list2)
+
+a_list = [number for number in range(1, 6) if number % 2 == 1]
+print("a_list", a_list)
+
+# 상기와 같은 의미.
+# a_list = []
+# for number in range(1,6):
+#     if number % 2 ==1 :
+#         a_list.append(number)
+#
+# print(a_list)
+
+# 이중 반복문
+
+rows = range(1, 4)
+cols = range(1, 3)
+cells = [(row, col) for row in rows for col in cols]
+for cell in cells: print(cell)
+
+for row, col in cells:
+    print(row, col)
+
+# 굉장히 유용한 컴프리 헨션....
+# 코드를 줄일 수 있고, 직관적으로 알고리즘을 생각할 수 있음.
