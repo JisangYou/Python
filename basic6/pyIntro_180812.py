@@ -34,8 +34,14 @@ else:
     print('That was unexpected.')
 
 
+# 위치인자
 def menu(wine, entree, dessert):
     return {'wine': wine, 'entree': entree, 'dessert': dessert}
 
 
 print(menu("chardonnay", 'chicken', 'cake'))
+
+# 키워드 인자
+
+print(menu(entree='beef', dessert='bagel', wine='bordeaux'))
+
