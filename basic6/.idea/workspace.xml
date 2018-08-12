@@ -29,11 +29,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pyIntro_180717.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pyIntro_180717.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pyIntro_180717.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="331">
               <caret line="65" column="36" selection-start-line="65" selection-start-column="36" selection-end-line="65" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pyIntro_180812.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pyIntro_180812.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="40" column="44" selection-start-line="40" selection-start-column="44" selection-end-line="40" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -56,10 +65,11 @@
         <option value="$PROJECT_DIR$/pyIntro_180715.py" />
         <option value="$PROJECT_DIR$/pyGrammer_180717.py" />
         <option value="$PROJECT_DIR$/pyIntro_180717.py" />
+        <option value="$PROJECT_DIR$/pyIntro_180812.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="100" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
@@ -100,7 +110,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.pyGrammer_180717">
+  <component name="RunManager" selected="Python.pyIntro_180812">
     <configuration name="180701" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -120,24 +130,6 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration name="180701_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="test" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\YOO\PycharmProjects\basic6\pyIntro_180701.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="helloworld" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -191,20 +183,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="pyIntro_180812" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyIntro_180812.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.helloworld" />
       <item itemvalue="Python.180701" />
       <item itemvalue="Python.180701_1" />
       <item itemvalue="Python.pyIntro_180715" />
       <item itemvalue="Python.pyGrammer_180717" />
+      <item itemvalue="Python.pyIntro_180812" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pyIntro_180812" />
         <item itemvalue="Python.pyGrammer_180717" />
         <item itemvalue="Python.pyIntro_180715" />
         <item itemvalue="Python.180701_1" />
         <item itemvalue="Python.180701" />
-        <item itemvalue="Python.helloworld" />
       </list>
     </recent_temporary>
   </component>
@@ -355,6 +365,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="331">
           <caret line="65" column="36" selection-start-line="65" selection-start-column="36" selection-end-line="65" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyIntro_180812.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="40" column="44" selection-start-line="40" selection-start-column="44" selection-end-line="40" selection-end-column="44" />
         </state>
       </provider>
     </entry>
