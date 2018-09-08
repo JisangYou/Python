@@ -45,3 +45,9 @@ print(menu("chardonnay", 'chicken', 'cake'))
 
 print(menu(entree='beef', dessert='bagel', wine='bordeaux'))
 
+
+def menu2(wine, entree, dessert="pizza"):
+    return {'wine': wine, 'entree': entree, 'dessert': dessert}
+
+
+print(menu2('chardonnay', 'chicken'))
