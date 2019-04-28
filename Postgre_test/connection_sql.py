@@ -2,7 +2,7 @@ import psycopg2 as pg2
 
 # conn = pg2.connect("host = localhost dbname=test user=postgres password=1234 port=5432")
 #
-conn = pg2.connect(database="postgres", user="postgres", password="secretserai", host="127.0.0.1", port="5432")
+conn = pg2.connect(database="postgres", user="postgres", password="qwer1234", host="127.0.0.1", port="5432")
 
 # CREATE TABLE 명령 실행
 cur = conn.cursor()
