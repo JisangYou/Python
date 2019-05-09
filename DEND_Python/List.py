@@ -35,7 +35,6 @@ letters = ['a', 'b', 'c', 'd']
 letters.append('z')
 print(letters)
 
-
 a = [1, 5, 8]
 b = [2, 6, 9, 10]
 c = [100, 200]
@@ -45,3 +44,10 @@ print(min([len(a), len(b), len(c)]))
 
 names = ["Carol", "Albert", "Ben", "Donna"]
 print(" & ".join(sorted(names)))
+
+arr = ['a', 'b', 'c', 'd', 'e', 'f', 'g']
+print(arr[2:5])
+print(arr[:3])
+print(arr[4:6])
+print(arr[0:2])
+print(arr[2:6])
