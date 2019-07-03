@@ -34,3 +34,22 @@ print("arr5.dtype", arr5.dtype)
 
 float_arr = arr5.astype(np.float64)
 print("float_arr.dtype", float_arr.dtype)
+
+# 배열과 스칼라 간의 연산
+arr6 = np.array([[1., 2., 3.], [4., 5., 6.]])
+print(arr6)
+print(arr6 * arr6)
+
+# 색인과 슬라이싱 기초
+arr7 = np.arange(10)
+# print(arr7)
+# print("arr[5:8]", arr7[5:8])
+#
+# arr7[5:8] = 12
+# print("arr7", arr7)
+
+arr_slice = arr7[5:8]
+
+arr_slice[1] = 12345
+
+print("arr_slice", arr_slice)
