@@ -59,3 +59,41 @@ for x, y in basket_items.items():
         result += y
 
 print("There are {} fruits in the basket.".format(result))
+
+
+# number to find the factorial of
+number = 6
+# start with our product equal to one
+product = 1
+# track the current number being multiplied
+current = 1
+
+while current <= number:
+    # multiply the product so far by the current number
+    product *= current
+    print("product", product)
+    # increment current with each iteration until it reaches number
+    current += 1
+    print("current", current)
+
+# print the factorial of number
+print(product)
+
+# number we'll find the factorial of
+number = 6
+# start with our product equal to one
+product = 1
+
+# calculate factorial of number with a for loop
+for num in range(2, number + 1):
+    product *= num
+
+# print the factorial of number
+print(product)
+
+
+# For Loops Vs. While Loops
+
+# for loops are ideal when the number of iterations is known or finite.
+
+# while loops are ideal when the iterations need to continue until a condition is met.
