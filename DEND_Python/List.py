@@ -51,3 +51,21 @@ print(arr[:3])
 print(arr[4:6])
 print(arr[0:2])
 print(arr[2:6])
+
+
+
+names = ["Rick Sanchez", "Morty Smith", "Summer Smith", "Jerry Smith", "Beth Smith"]
+
+first_names = [name.split()[0].lower() for name in names]
+print(first_names)
+
+scores = {
+             "Rick Sanchez": 70,
+             "Morty Smith": 35,
+             "Summer Smith": 82,
+             "Jerry Smith": 23,
+             "Beth Smith": 98
+          }
+
+passed = [name for name, score in scores.items() if score >= 65] # 어떻게 구분을 할까 name과 score를...?
+print(passed)
