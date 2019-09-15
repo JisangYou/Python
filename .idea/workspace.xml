@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5389e0dd-cd90-4e9d-9cce-4d6d5a9eeac5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/DEND_Python/Numpy.py" beforeDir="false" afterPath="$PROJECT_DIR$/DEND_Python/Numpy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +15,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DEND_Python/Numpy.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
+            <state relative-caret-position="1461">
               <caret line="225" column="49" selection-start-line="225" selection-start-column="49" selection-end-line="225" selection-end-column="49" />
             </state>
           </provider>
@@ -347,7 +347,21 @@
       <option name="project" value="LOCAL" />
       <updated>1568290338360</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="pandas arange, reshape">
+      <created>1568369830823</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1568369830823</updated>
+    </task>
+    <task id="LOCAL-00009" summary="numpy arange, reshape">
+      <created>1568369869742</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1568369869742</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -380,7 +394,9 @@
     <MESSAGE value="ndarray 학습" />
     <MESSAGE value="pandas 학습" />
     <MESSAGE value="pandas shape, ndim, size, values, index" />
-    <option name="LAST_COMMIT_MESSAGE" value="pandas shape, ndim, size, values, index" />
+    <MESSAGE value="pandas arange, reshape" />
+    <MESSAGE value="numpy arange, reshape" />
+    <option name="LAST_COMMIT_MESSAGE" value="numpy arange, reshape" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/basic/venv/grammer.py" />
@@ -503,7 +519,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DEND_Python/Numpy.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
+        <state relative-caret-position="1461">
           <caret line="225" column="49" selection-start-line="225" selection-start-column="49" selection-end-line="225" selection-end-column="49" />
         </state>
       </provider>

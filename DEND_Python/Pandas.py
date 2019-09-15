@@ -24,3 +24,11 @@ y = 'bread' in groceries
 # We print the results
 print('Is bananas an index label in Groceries:', x)
 print('Is bread an index label in Groceries:', y)
+
+################################################################################
+
+# We create a Pandas Series that stores a grocery list of just fruits
+fruits = pd.Series(data=[10, 6, 3, ], index=['apples', 'oranges', 'bananas'])
+
+# We display the fruits Pandas Series
+fruits
