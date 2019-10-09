@@ -137,4 +137,4 @@ tree.LFTravel() # 깊이 우선탐색 중 중위 왼쪽->뿌리->오른쪽
 print("\n@@@@@@")
 tree.LRTravel() # 깊이 우선 탐색 중 후위 왼쪽->오른쪽->뿌리
 print("\n@@@@@@")
-tree.layerTravel() # 넢이 우선탐색 뿌리 -> 깊이 순으로 
+tree.layerTravel() # 넢이 우선탐색 뿌리 -> 깊이 순으로
