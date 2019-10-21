@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/SearchAlgorithm/SequentialSearch.py" line="0" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5389e0dd-cd90-4e9d-9cce-4d6d5a9eeac5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/insertSort.py" afterDir="false" />
+    <list default="true" id="5389e0dd-cd90-4e9d-9cce-4d6d5a9eeac5" name="Default Changelist" comment="insertSort">
+      <change afterPath="$PROJECT_DIR$/SearchAlgorithm/BinarySearch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SearchAlgorithm/SequentialSearch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SearchAlgorithm/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,82 +19,24 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataStructure/Link.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="530">
-              <caret line="67" column="29" selection-start-line="67" selection-start-column="29" selection-end-line="67" selection-end-column="29" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/SearchAlgorithm/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataStructure/Stack.py">
+        <entry file="file://$PROJECT_DIR$/SearchAlgorithm/SequentialSearch.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="89" selection-start-line="15" selection-start-column="89" selection-end-line="15" selection-end-column="89" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataStructure/Queue.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataStructure/Tree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataStructure/RadixSort.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="7" selection-start-column="7" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataStructure/SelectionSort.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="4" selection-start-column="4" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataStructure/ExchangeSort.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-column="12" />
+            <state relative-caret-position="171">
+              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DataStructure/insertSort.py">
+        <entry file="file://$PROJECT_DIR$/SearchAlgorithm/BinarySearch.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-1454627293/builtins.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="4292" column="14" selection-start-line="4292" selection-start-column="6" selection-end-line="4292" selection-end-column="14" />
+            <state relative-caret-position="361">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -135,11 +81,17 @@
         <option value="$PROJECT_DIR$/DataStructure/SelectionSort.py" />
         <option value="$PROJECT_DIR$/DataStructure/RadixSort.py" />
         <option value="$PROJECT_DIR$/DataStructure/insertSort.py" />
+        <option value="$PROJECT_DIR$/DataStructure/ShellSort.py" />
+        <option value="$PROJECT_DIR$/DataStructure/QuickSort.py" />
+        <option value="$PROJECT_DIR$/DataStructure/BubbleSort.py" />
+        <option value="$PROJECT_DIR$/SearchAlgorithm/SequentialSearch.py" />
+        <option value="$PROJECT_DIR$/SearchAlgorithm/BinarySearch.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="431" />
+    <option name="x" value="2338" />
+    <option name="y" value="-13" />
     <option name="width" value="917" />
     <option name="height" value="867" />
   </component>
@@ -148,7 +100,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -159,12 +110,13 @@
             <path>
               <item name="PythonLang" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonLang" type="462c0819:PsiDirectoryNode" />
-              <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="SearchAlgorithm" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -189,7 +141,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.insertSort">
+  <component name="RunManager" selected="Python.BubbleSort">
+    <configuration name="BubbleSort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonLang" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataStructure" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataStructure/BubbleSort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="ExchangeSort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonLang" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -211,7 +184,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="RadixSort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="QuickSort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonLang" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -223,7 +196,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataStructure/RadixSort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataStructure/QuickSort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -232,7 +205,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SelectionSort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ShellSort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonLang" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -244,28 +217,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataStructure/SelectionSort.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonLang" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataStructure" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataStructure/Tree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataStructure/ShellSort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -297,11 +249,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BubbleSort" />
+        <item itemvalue="Python.QuickSort" />
+        <item itemvalue="Python.ShellSort" />
         <item itemvalue="Python.insertSort" />
         <item itemvalue="Python.ExchangeSort" />
-        <item itemvalue="Python.SelectionSort" />
-        <item itemvalue="Python.RadixSort" />
-        <item itemvalue="Python.Tree" />
       </list>
     </recent_temporary>
   </component>
@@ -421,14 +373,28 @@
       <option name="project" value="LOCAL" />
       <updated>1570627889555</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="insertSort">
+      <created>1570804560188</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1570804560188</updated>
+    </task>
+    <task id="LOCAL-00017" summary="ShellSort">
+      <created>1571240685107</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1571240685107</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="1912" y="-4" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19178082" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19178082" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -462,7 +428,9 @@
     <MESSAGE value="Tree" />
     <MESSAGE value="RadixSort" />
     <MESSAGE value="SelectionSort, ExchangeSort, RadixSort" />
-    <option name="LAST_COMMIT_MESSAGE" value="SelectionSort, ExchangeSort, RadixSort" />
+    <MESSAGE value="insertSort" />
+    <MESSAGE value="ShellSort" />
+    <option name="LAST_COMMIT_MESSAGE" value="ShellSort" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/basic/venv/grammer.py" />
@@ -583,9 +551,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructure/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/DataStructure/Stack.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -607,24 +572,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-1454627293/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="4292" column="14" selection-start-line="4292" selection-start-column="6" selection-end-line="4292" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DataStructure/Link.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="530">
+        <state relative-caret-position="1273">
           <caret line="67" column="29" selection-start-line="67" selection-start-column="29" selection-end-line="67" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructure/SelectionSort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="4" selection-start-column="4" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -635,10 +586,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructure/ExchangeSort.py">
+    <entry file="file://$PROJECT_DIR$/DataStructure/SelectionSort.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret selection-end-column="12" />
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/ShellSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/QuickSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" selection-start-line="32" selection-end-line="34" />
         </state>
       </provider>
     </entry>
@@ -646,6 +611,47 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-1454627293/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81548">
+          <caret line="4292" column="14" selection-start-line="4292" selection-start-column="6" selection-end-line="4292" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/BubbleSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="48" selection-start-line="1" selection-start-column="48" selection-end-line="1" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/ExchangeSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SearchAlgorithm/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SearchAlgorithm/SequentialSearch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SearchAlgorithm/BinarySearch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
