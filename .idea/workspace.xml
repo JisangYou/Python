@@ -1,106 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5389e0dd-cd90-4e9d-9cce-4d6d5a9eeac5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithm/leecode/RunningSumof1dArray.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PythonLang.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="5389e0dd-cd90-4e9d-9cce-4d6d5a9eeac5" name="Default Changelist" comment="SearchAlgorithm">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Arithmetic Operator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Division.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Find the Runner-Up.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Hello_World.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/List Comprehensions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Lists.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Loops.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Print Function.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Python If_Else.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Tuples.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Write a function.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/sWAP cASE.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/BubbleSort.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/ExchangeSort.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/Link.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/Queue.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/QuickSort.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/RadixSort.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/SelectionSort.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/ShellSort.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/Stack.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/Tree.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/insertSort.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/DEND_Python/Boolean.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/DEND_Python/Conditional_statements.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/DEND_Python/Dictionary.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/DEND_Python/For_Loops.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/DEND_Python/Function.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/DEND_Python/List.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/DEND_Python/Numpy.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/DEND_Python/Pandas.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/DEND_Python/String.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/DEND_Python/Tuple.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/DEND_Python/Zip_Enumerate.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/DEND_Python/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/DEND_Python/my_array.npy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/Doodle/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/Doodle/exceptions_finally.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/Doodle/exceptions_handle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/Doodle/exceptions_raise.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/Doodle/exceptions_using_with.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/Doodle/grammer2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/Doodle/io_input.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/Doodle/io_pickle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/Doodle/io_using_file.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/Doodle/list.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/Doodle/mymodule.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/Doodle/oop_init.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/Doodle/oop_method.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/Doodle/oop_objvar.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/Doodle/oop_simplestclass.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/Doodle/oop_subclass.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/Doodle/poem.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/Doodle/practice.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/Doodle/reference.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/Doodle/seq.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/Doodle/shoplist.data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/Doodle/str_methods.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/Doodle/tuple.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/IntroducingPython/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/IntroducingPython/pyIntro_180701.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/IntroducingPython/pyIntro_180715.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/IntroducingPython/pyIntro_180717.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/IntroducingPython/pyIntro_180812.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/IntroducingPython/pyIntro_180908.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/IntroducingPython/pyIntro_180909.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/IntroducingPython/pyIntro_180923.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/IntroducingPython/pyIntro_180924.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/IntroducingPython/pyIntro_181013.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/IntroducingPython/report.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/IntroducingPython/sources/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/IntroducingPython/sources/daily.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/IntroducingPython/sources/weekly.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/IntroducingPython/weather.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/IntroducingPython/weatherman.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/Pandas/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/Pandas/pandas_data.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/Pandas/pandas_data_analysis.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/Pandas/pandas_indexing.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/Pandas/pandas_structure.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/PfDA/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/PfDA/array_archive.npz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/PfDA/np.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/PfDA/np2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/PfDA/np3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/PfDA/np4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/PfDA/np5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/PfDA/some_array.npy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/Postgre_Python/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/Postgre_Python/connection_sql.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/SearchAlgorithm/BinarySearch.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/SearchAlgorithm/SequentialSearch.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/SearchAlgorithm/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/__init__.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -518,30 +420,34 @@
     <option name="LAST_COMMIT_MESSAGE" value="SearchAlgorithm" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="290" y="23" key="CommitChangelistDialog2" timestamp="1598445391334">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="290" y="23" key="CommitChangelistDialog2/0.23.1440.811@0.23.1440.811" timestamp="1598445391334" />
     <state x="507" y="205" key="FileChooserDialogImpl" timestamp="1598368866794">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="507" y="205" key="FileChooserDialogImpl/0.23.1440.808@0.23.1440.808" timestamp="1598368866794" />
-    <state width="1419" height="181" key="GridCell.Tab.0.bottom" timestamp="1598442479237">
+    <state width="1419" height="181" key="GridCell.Tab.0.bottom" timestamp="1598445132592">
       <screen x="0" y="23" width="1440" height="811" />
     </state>
     <state width="1419" height="181" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1598369946425" />
-    <state width="1419" height="181" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1598442479237" />
-    <state width="1419" height="181" key="GridCell.Tab.0.center" timestamp="1598442479237">
+    <state width="1419" height="181" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1598445132592" />
+    <state width="1419" height="181" key="GridCell.Tab.0.center" timestamp="1598445132591">
       <screen x="0" y="23" width="1440" height="811" />
     </state>
     <state width="1419" height="181" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1598369946425" />
-    <state width="1419" height="181" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1598442479237" />
-    <state width="1419" height="181" key="GridCell.Tab.0.left" timestamp="1598442479236">
+    <state width="1419" height="181" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1598445132591" />
+    <state width="1419" height="181" key="GridCell.Tab.0.left" timestamp="1598445132590">
       <screen x="0" y="23" width="1440" height="811" />
     </state>
     <state width="1419" height="181" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1598369946424" />
-    <state width="1419" height="181" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1598442479236" />
-    <state width="1419" height="181" key="GridCell.Tab.0.right" timestamp="1598442479237">
+    <state width="1419" height="181" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1598445132590" />
+    <state width="1419" height="181" key="GridCell.Tab.0.right" timestamp="1598445132591">
       <screen x="0" y="23" width="1440" height="811" />
     </state>
     <state width="1419" height="181" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1598369946425" />
-    <state width="1419" height="181" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1598442479237" />
+    <state width="1419" height="181" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1598445132591" />
     <state x="221" y="62" key="SettingsEditor" timestamp="1598368928021">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
